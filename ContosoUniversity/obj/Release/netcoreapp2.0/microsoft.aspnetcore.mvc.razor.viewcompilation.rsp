@@ -1,0 +1,21 @@
+D:\VS 2017\ContosoUniversity\ContosoUniversity
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ContosoUniversity
+--content-root=D:\VS 2017\ContosoUniversity\ContosoUniversity
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Courses\Create.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Courses\Delete.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Courses\Details.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Courses\Edit.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Courses\Index.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Home\About.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Home\Index.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Shared\Error.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Shared\_Layout.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Students\Create.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Students\Delete.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Students\Details.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Students\Edit.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\Students\Index.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\_ViewImports.cshtml
+--file=D:\VS 2017\ContosoUniversity\ContosoUniversity\Views\_ViewStart.cshtml
